@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomNumberGame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=min\ max
+comment2.target=int\ generateRandomNumber(int,\ int)
+comment3.params=randomNumber\ userGuess
+comment3.target=boolean\ compareUserGuess(int,\ int)
+numComments=4

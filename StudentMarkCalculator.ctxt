@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StudentMarkCalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=index
+comment2.target=java.lang.String\ getSubjectName(int)
+numComments=3
